@@ -1,0 +1,31 @@
+{
+  "name": "whatsapp-clone",
+  "version": "1.0.0",
+  "description": "This is a chatapp using reactJs and Firebase",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dummycoder07/React-ChatApp.git"
+  },
+  "keywords": [
+    "Chatapp",
+    "ReactJs",
+    "AmanSharma"
+  ],
+  "author": "AmanSharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dummycoder07/React-ChatApp/issues"
+  },
+  "homepage": "https://github.com/dummycoder07/React-ChatApp#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
